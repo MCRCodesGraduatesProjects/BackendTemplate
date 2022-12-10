@@ -16,4 +16,4 @@ A simple chat app for the purposes of exploring how the Socket.io API works.
 
 - Create and switch to a local branch for the feature that you want to develop `git switch -c your-branch-name`.
 - Use proper Git workflow to develop and commit your changes to the your feature branch.
-- Run `git push -u origin your-branch-name` to push branch and it's current changes up to the `origin` repository. 
+- Run `git push --set-upstream origin your-branch-name` to push branch and it's current changes up to the `origin` repository. 
